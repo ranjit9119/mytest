@@ -1,2 +1,2 @@
 # mytest
-this is not file
+this is a file
